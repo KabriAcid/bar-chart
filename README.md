@@ -1,0 +1,2 @@
+# bar-chart
+ This project is a school e-system dashboard that displays dynamic bar charts representing different categories (students, teachers, alumni, and applicants). The dashboard is built using PHP for backend logic and HTML, CSS, and JavaScript for the frontend interface. The bar charts are animated to rise smoothly from the bottom, and the counts for each category are animated using CountUp.js.
